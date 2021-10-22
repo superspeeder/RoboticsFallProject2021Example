@@ -84,3 +84,8 @@ If using Visual Studio and the HERO template projects are missing: reinstall the
 If using Visual Studio and an error message similar to the following error appears: reinstall the CTRE libraries with the Phoenix installer until it works (remember to close visual studio first).
 
 ![image](https://user-images.githubusercontent.com/15852217/138372886-9b71ad96-884f-4879-a263-01c02b8c955a.png)
+
+
+If visual studio throws this popup when starting it, ignore it.
+
+![image](https://user-images.githubusercontent.com/15852217/138531362-695af358-c0fd-4884-8e94-79974329237c.png)
